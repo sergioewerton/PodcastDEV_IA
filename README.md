@@ -27,10 +27,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
         GitHub
     </a>
 
-    &nbsp;|&nbsp;
+ 
 
  <a 
         href="https://www.linkedin.com/in/sergio-ewerton-chaves-b35350354/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
+   
